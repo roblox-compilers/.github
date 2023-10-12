@@ -7,7 +7,7 @@ Roblox Compiler Collection is a collection of compilers to compile a language to
 ## RCC Compilers
 - `py`: [roblox-py](/../../../roblox-py) <br>
   Python -> Luau Compiler <br> <br>
-- `c`/`cpp`: [roblox-c]((/../../../roblox-c) [Experimental] <br>
+- `c`/`cpp`: [roblox-c](/../../../roblox-c) [Experimental] <br>
   C and C++ -> Luau Compiler <br> <br>
 - `c#`: [roblox-cs]() [Coming soon] <br>
   C# -> Luau Compiler <br> <br>
