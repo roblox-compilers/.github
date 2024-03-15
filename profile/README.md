@@ -13,8 +13,6 @@ Roblox Compiler Collection is a collection of compilers to compile a language to
   C# -> Luau Compiler <br> <br>
 - `kt`: [roblox-kt]() [Coming soon] <br>
   Kotlin -> Luau Compiler <br> <br>
-- `ts` [qts](/roblox-compilers/qts) <br>
-  A simplified interface for roblox-ts <br> <br>
 - `wasm` [rasm]() [Coming soon] <br>
   WebAssembly to Luau compiler. <br> <br>
 
