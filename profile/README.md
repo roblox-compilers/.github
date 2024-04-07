@@ -1,13 +1,13 @@
 # Roblox Compiler Collection (RCC)
-Roblox Compiler Collection is a collection of compilers to compile a language to Roblox Lua(u), all of these compilers is made by the RCC group.
+Roblox Compiler Collection is a collection of compilers to compile a language to Roblox Lua(u), the RCC group makes all of these compilers.
 
 [Discord](https://discord.gg/g9uHaT8Z4b)
 
 ***
 ## RCC Compilers
-- `py`: [roblox-py](/roblox-compilers/roblox-py) <br>
+- `py`: [roblox-py](https://github.com/roblox-compilers/roblox-py) <br>
   Python -> Luau Compiler <br> <br>
-- `c`/`cpp`: [roblox-c](/roblox-compilers/roblox-c) [Experimental] <br>
+- `c`/`cpp`: [roblox-c](https://github.com/roblox-compilers/roblox-c) [Experimental] <br>
   C and C++ -> Luau Compiler <br> <br>
 - `c#`: [roblox-cs]() [Coming soon] <br>
   C# -> Luau Compiler <br> <br>
