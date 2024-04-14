@@ -14,6 +14,17 @@ Roblox Compiler Collection is a collection of compilers to compile a language to
 - `llvm` [roblox-llvm]() [Coming soon] <br>
   LLVM IR to Luau compiler. <br> <br>
 
+***
+## RCC Projects
+- `bindgen`: [bindings](https://github.com/roblox-compilers/bindings) <br>
+  Codegen to generate bindings in multiple langauges for the Roblox API <br> <br>
+- `rcc`: [rcc](https://github.com/roblox-compilers/rcc) <br>
+  Toolchain for installing and managing the RCC compilers. Allows for multiple languages to be used in one project and has extensive standard libraries. <br> <br>
+- `install`: [installer](https://github.com/roblox-compilers/installer) [Experimental] <br>
+  A shell-script for Unix & Windows systems to easily install `rcc` and compilers. <br> <br>
+- `luau` [luau2py](https://github.com/roblox-compilers/luau2py) [In development] <br>
+  Luau -> Python compiler.. <br> <br>
+
 
 ***
 ## Other Compilers
