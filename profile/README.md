@@ -9,8 +9,6 @@ Roblox Compiler Collection is a collection of compilers to compile a language to
   Python -> Luau Compiler <br> <br>
 - `c`/`cpp`: [roblox-c](https://github.com/roblox-compilers/roblox-c) [Archived] <br>
   C and C++ -> Luau Compiler <br> <br>
-- `c#`: [roblox-cs](https://github.com/roblox-csharp/roblox-cs) <br>
-  C# -> Luau Compiler <br> <br>
 - `llvm` [roblox-llvm]() [Coming soon] <br>
   LLVM IR to Luau compiler. <br> <br>
 
@@ -34,3 +32,5 @@ WASM -> Luau, not very performant.
 TS -> Luau, Very good Typescript to Luau compiler with many features.
 - [roblox-rs](https://github.com/roblox-rs):
 Rust bindings for Roblox STD, should be used with Wasynth.
+- [roblox-cs](https://github.com/roblox-csharp/roblox-cs):
+C# -> Luau, decent compiler in development
